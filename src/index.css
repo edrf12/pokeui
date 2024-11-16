@@ -1,0 +1,20 @@
+.center {
+  left: anchor(center);
+}
+
+.pokemon-cards {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 10px;
+  justify-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pages-div {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
